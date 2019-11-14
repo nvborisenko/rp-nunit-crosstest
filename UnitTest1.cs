@@ -12,6 +12,7 @@ namespace rp_nunit_crosstest
         [Test]
         public void Test1()
         {
+            ReportPortal.Shared.Log.Info("qwe");
             Assert.Pass();
         }
     }
