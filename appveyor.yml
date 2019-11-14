@@ -4,4 +4,4 @@ image:
   - Ubuntu
 
 build:
-- cmd: dotnet test
+  - cmd: dotnet test
