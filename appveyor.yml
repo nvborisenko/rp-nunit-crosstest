@@ -3,5 +3,5 @@ image:
   - Visual Studio 2019
   - Ubuntu
 
-build:
+build_script:
   - cmd: dotnet test
